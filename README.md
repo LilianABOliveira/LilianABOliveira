@@ -1,4 +1,4 @@
-# Abracadabra, código e café! ✨
+# Hello, Devs! ✨
 
 Bem-vindo ao meu cantinho!
 
@@ -8,12 +8,7 @@ Meu nome é Lilian e sou uma iniciante no mundo da tecnologia, atualmente mergul
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas, sempre buscando aprender algo novo.
 - ☕️ Café: minha gasolina para codificar! Nunca subestime o poder de um código alimentado por cafeína!
-- 🚀 Em constante descoberta de novas tecnologias: Python, JavaScript e além!
-
-## O Que Você Pode Encontrar Aqui 📦
-
-Neste espaço, você encontrará uma mistura de projetos pessoais, desafios de programação, e quem sabe algumas loucuras criativas que surgiram durante minhas jornadas de desenvolvimento. 
-Sinta-se à vontade para explorar, clonar, sugerir melhorias ou apenas dizer um "Oi!".
+- 🚀 Os desafios são portas para oportunidades, supere-os e vá além!
 
 ## Contato 📫
 
