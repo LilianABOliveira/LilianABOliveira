@@ -1,22 +1,26 @@
-# Hello, Devs! ✨
+# Bem vindo ao meu Perfil! ☕️
 
-Bem-vindo ao meu cantinho!
+Meu nome é Lilian Oliveira, tenho 25 anos e moro em SP.
 
-Meu nome é Lilian e sou uma iniciante no mundo da tecnologia, atualmente mergulhando de cabeça no mundo da Programação. Estou aqui para compartilhar um pouco do que aprendo e construo.
+# Sobre Mim
 
-## Sobre Mim 💻
+🎓 Graduando em Análise e Desenvolvimento de Sistemas.
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas, sempre buscando aprender algo novo.
-- ☕️ Café: minha gasolina para codificar! Nunca subestime o poder de um código alimentado por cafeína!
-- 🚀 Os desafios são portas para oportunidades, supere-os e vá além!
+💻 Estagiária de Desenvolvimento de Software.
 
-## Contato 📫
+🚀 Ainda estou aprendendo e desenvolvendo minhas habilidades em programação.
 
-Quer trocar ideias, colaborar em algum projeto, ou apenas bater um papo sobre tecnologia? Não hesite em me contatar!
 
-- LinkedIn: www.linkedin.com/in/lilianaboliveira
-- Email: lilianbrancoo.dev@gmail.com
 
-## Vamos Construir Juntos! 🚧
+##
+ Se quiser bater um papo, me manda um e-mail ou dá uma passada no LinkedIn. Estou sempre pronta para uma boa conversa (e para mais uma xícara de café)! ☕️
+ 
+<div>
 
-Estou sempre aberta a novas oportunidades de aprendizado e colaboração. Se você tem alguma ideia, sugestão ou projeto interessante em mente, estou pronta para ouvir! Vamos nos conectar e construir algo incrível juntos. 😊
+<a href ="https://www.linkedin.com/in/lilianaboliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:lilianbrancoo.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+
+ 
+  
+</div>
+
