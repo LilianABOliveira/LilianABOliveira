@@ -26,8 +26,6 @@ Meu nome é Lilian Oliveira, tenho 25 anos e moro em SP.
 ---
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LilianABOliveira&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Snake animation](https://github.com/LilianOliveira/LilianOliveira/blob/output/github-contribution-grid-snake.svg)
-
  
 </div>
 
