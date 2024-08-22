@@ -10,17 +10,24 @@ Meu nome é Lilian Oliveira, tenho 25 anos e moro em SP.
 
 🚀 Ainda estou aprendendo e desenvolvendo minhas habilidades em programação.
 
+## Habilidades
+
+![HTML](https://img.shields.io/badge/HTML-DB7093?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-DB7093?style=for-the-badge&logo=javascript&logoColor=white)
 
 
-##
- Se quiser bater um papo, me manda um e-mail ou dá uma passada no LinkedIn. Estou sempre pronta para uma boa conversa (e para mais uma xícara de café)! ☕️
+
+## Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DB7093?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilianaboliveira/)
+[![GitHub](https://img.shields.io/badge/GitHub-DB7093?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lilianaboliveira)
+[![E-mail](https://img.shields.io/badge/-Email-DB7093?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:lilian.branco.oliveira@gmail.com)
+
+---
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LilianABOliveira&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Snake animation](https://github.com/LilianOliveira/LilianOliveira/blob/output/github-contribution-grid-snake.svg)
+
  
-<div>
-
-<a href ="https://www.linkedin.com/in/lilianaboliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:lilianbrancoo.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-
- 
-  
 </div>
 
